@@ -1,1 +1,1 @@
-# Terminal-commands-Linux-
+# Terminal commands (Linux)
